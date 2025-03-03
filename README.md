@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyNR
-- 👀 I’m interested in video game development and web development
-- 🌱 I’m currently learning React.js, Vue.js, Symfony, Unity, Blender
+- 👀 I’m interested in web development and also plans to develop video games in the future
+- 🌱 I’m currently learning React.js, Next.js, TypeScript, C#, ASP.NET Core, EF Core
 - 💞️ I’m looking to collaborate on the creation of Android or PC games
 - 📫 How to reach me ? rabarisoanj@gmail.com
 
